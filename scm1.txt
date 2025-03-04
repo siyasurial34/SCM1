@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-File 2
-=======
-file 2
->>>>>>> feature1
