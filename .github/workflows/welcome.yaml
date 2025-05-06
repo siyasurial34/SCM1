@@ -1,0 +1,13 @@
+name: Welcome Workflow
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say Welcome
+        run: echo "Hello and welcome!"
